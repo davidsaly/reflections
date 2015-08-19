@@ -6,3 +6,6 @@ How is the staging area different from the working directory and the repository?
 
 the staging area allows us logically associate files with respective commits. 
 
+How can you use the staging area to make sure you have one commit per logical change?
+commit only files which were affected by the change that you like to have in a commit.
+
