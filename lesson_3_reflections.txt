@@ -1,1 +1,3 @@
-text
+When would you want to use a remote repository rather than keeping all your work local?
+
+If I work from multiple computers or a group is working on the file
